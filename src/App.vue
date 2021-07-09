@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import VueColorPicker from "./components/Vue-color-picker.vue";
+import VueColorPicker from "./components/VueColorPicker.vue";
 
 export default {
   name: "App",
