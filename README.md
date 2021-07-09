@@ -37,7 +37,7 @@ npm i vue-color-picker-basic
    ```
 2. Clone the repo
    ```sh
-   cd vue-color-picker-basic
+   cd vue-color-picker
    ```
 3. Install dependencies
    ```sh
