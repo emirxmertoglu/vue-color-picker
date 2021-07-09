@@ -8,7 +8,7 @@
 
 ## Online editor / preview
 
-- https://vue-color-picker-steel.vercel.app/
+- https://vue-color-picker-lac.vercel.app/
 
 ## Installation
 
