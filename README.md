@@ -10,7 +10,7 @@
 
 - https://vue-color-picker-lac.vercel.app/
 
-![Preview](./snapshots/preview.gif)
+![Preview](https://i.imgur.com/vF64IZl.gif)
 
 ## Installation
 
