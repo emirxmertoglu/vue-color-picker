@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    Click and choose a color
     <VueColorPicker />
   </div>
 </template>
